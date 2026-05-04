@@ -1,5 +1,5 @@
-# CS 180 Group Project, L06
-We couldn't figure out how to format our code with folders correctly...
+# VRADE Event Management System
+
 ## Running the program
 ### Phase one backend testing
 To test the backend component from phase 1 compile and run the main methods in the following files while ensuring that JUnit is installed. You can also just run each main method of the following files through Intellij while making sure the JUnit package is installed.
@@ -18,14 +18,7 @@ To test the GUI from phase three follow the below steps:
 3. Navigate the GUI to test the functionalities. (The program will have a default user account with username `test` and password `password`. It will also have a default admin account with username `admin` and password `password`.)
 
 You test open multiple windows for each instance of the Client you want, but to switch users within the same instance you must close and reopen it.
-# Submissions
-## Vocareum
-David submitted this phase on Vocareum.
-## Report
-Emma submited the report on Brightspace.
-## Presentation
-David submited the presentation video via link on Brightspace. 
-# Classes
+
 ## Phase one
 ### EventManager
 Event manager is a class that can create, save, load, and delete events. It is thread safe and modifies files to save and draw from device memory rather than local variables. Testcases verify that all of EventManager's methods run and compile independently of each other. This primarily relates to Event and Seat, as it writes out Events and Seats to seperate .txt Files.
