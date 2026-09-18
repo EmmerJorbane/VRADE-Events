@@ -1,5 +1,10 @@
 # VRADE Event Management System
 
+## Team Members:
+   Ryan Poplar - (Project Lead)
+   Emma Jordan
+   Vaibhav Kanagala
+
 ## Running the program
 ### Phase one backend testing
 To test the backend component from phase 1 compile and run the main methods in the following files while ensuring that JUnit is installed. You can also just run each main method of the following files through Intellij while making sure the JUnit package is installed.
