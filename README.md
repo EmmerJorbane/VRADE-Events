@@ -1,8 +1,10 @@
 # VRADE Event Management System
 
 ## Team Members:
-   Ryan Poplar - (Project Lead)
-   Emma Jordan
+   Ryan Poplar - (Project Lead) 
+   
+   Emma Jordan 
+   
    Vaibhav Kanagala
 
 ## Running the program
